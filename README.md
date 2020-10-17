@@ -1,6 +1,6 @@
 # **Tarmobil**
 
-![picture](https://github.com/jano305/tarmobil/blob/main/_media/tarmobil.png?raw=true)
+![tarmobil_v1.0](https://github.com/jano305/tarmobil/blob/main/_media/tarmobil_v1.0.jpg?raw=true)
 
 3D printed RC Car with active suspension and 2-speed manual transmission.
 
