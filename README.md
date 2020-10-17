@@ -2,7 +2,7 @@
 
 ![picture](https://github.com/jano305/tarmobil/blob/main/_media/tarmobil.png?raw=true)
 
-3D printed RC Car with active suspension and 2-speed transmission.
+3D printed RC Car with active suspension and 2-speed manual transmission.
 
 &nbsp;
 
