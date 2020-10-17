@@ -10,12 +10,15 @@ List of all projects that has been used / partially used / used as inspirations 
 Tarmo4:
 "Tarmo4 Chassis (1 of 3, MAIN)" and "Tarmo4 Suspension (2 of 3)" and "Tarmo4 Drivetrain (3 of 3)" by KrisCubed
 https://www.thingiverse.com/thing:4178426
+
 https://www.thingiverse.com/thing:4178427
+
 https://www.thingiverse.com/thing:4178625
 
 Rims and wheels:
 "Set of wheels for OpenRC Truggy" and "2nd Set of wheels for OpenRC Truggy (1:10 RC cars)" by Thomas
 https://www.thingiverse.com/thing:526969
+
 https://www.thingiverse.com/thing:964789
 
 Body:
