@@ -6,7 +6,7 @@
 
 &nbsp;
 
-This project is based on project Tarmo4 by KrisCubed (link below). This project is "fork" of Tarmo4 project and is created to ease modding and updating this project more frequent and to enable collaborate multiple people at the same time towards to one better Tarmobil. This project uses some parts ***different*** (especially **motor, esc, steering servo**) from Tarmo project so please keep this in mind.
+This project is based on project Tarmo4 by KrisCubed (link below). This project is "fork" of Tarmo4 project and is created to ease modding and updating this project more frequent and to enable collaborate multiple people at the same time towards to one better Tarmobil. This project uses some parts ***different*** (especially **motor, esc, steering servo**) from Tarmo4 project so please keep this in mind.
 
 &nbsp;
 
