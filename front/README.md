@@ -6,3 +6,8 @@ Front part of Tarmobil (1/5).
 3D Printed open differencial
 ![printed_diff_v1.0](https://github.com/jano305/tarmobil/blob/main/_media/printed_diff_v1.0.jpg?raw=true)
 ![printed_diff2_v1.0](https://github.com/jano305/tarmobil/blob/main/_media/printed_diff2_v1.0.jpg?raw=true)
+
+
+Alternatives:
+
+f13a1_wheel_adaptor_v1.0 - adaptor for different wheels
