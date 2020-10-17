@@ -46,3 +46,7 @@ https://www.thingiverse.com/thing:3909012
 **Bumper:**
 ""High Woods" Front Bumper for RC Crawlers" by Goodsons_Hobbies
 https://www.thingiverse.com/thing:3040300
+
+**Differential**
+"OpenRC 1:10 RC Differential" by barspin
+https://www.thingiverse.com/thing:35104
