@@ -1,1 +1,1 @@
-
+Trasmission with fixed ration.
